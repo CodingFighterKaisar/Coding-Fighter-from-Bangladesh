@@ -1,0 +1,19 @@
+repo_name: CodingFighterKaisar/Coding-Fighter-from-Bangladesh
+report_id: e4144ad987eb7b102a6c9029322d502f
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-31T01:13:33+00:00'
+requested_by: CodingFighterKaisar
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
