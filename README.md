@@ -11,4 +11,4 @@
 [![github](https://github.com/CodingFighterKaisar/Coding-Fighter-from-Bangladesh/assets/148694769/165ba726-7d71-4a3d-b6e0-b3c50c7eb51f)](https://github.com/yourusername)
 
 
-[<img src="[![github](https://github.com/CodingFighterKaisar/Coding-Fighter-from-Bangladesh/assets/148694769/165ba726-7d71-4a3d-b6e0-b3c50c7eb51f)]" width="150" height="150">](https://github.com/yourusername)
+[<img src="[![github](https://github.com/CodingFighterKaisar/Coding-Fighter-from-Bangladesh/assets/148694769/165ba726-7d71-4a3d-b6e0-b3c50c7eb51f)]" width="80" height="80">](https://github.com/yourusername)
